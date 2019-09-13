@@ -1,0 +1,31 @@
+html,
+body {
+  background: #a9cdec;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#nametag {
+  background: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  width: 290px;
+  color: #353535;
+  box-shadow: 0px 0px 8px #656565;
+}
+.img {
+  display: inline-block;
+
+  vertical-align: top;
+}
+.name {
+  font-size: 1.3em;
+  padding-bottom: 20px;
+}
+.desc {
+}
+.name-desc-wrap {
+  display: inline-block;
+  width: 160px;
+  padding-left: 20px;
+}
